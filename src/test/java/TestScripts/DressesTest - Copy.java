@@ -9,6 +9,9 @@ import pageObject.HomePageObject;
 public class DressesTest {
 	
 	
+int b = 10;
+int c = 30;
+
 	DressesObject dressobj;
 	HomePageObject home=new HomePageObject();
 	public DressesTest() {
