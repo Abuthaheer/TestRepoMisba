@@ -8,7 +8,8 @@ import pageObject.HomePageObject;
 
 public class DressesTest {
 	
-	
+	int a = 10;	
+
 	DressesObject dressobj;
 	HomePageObject home=new HomePageObject();
 	public DressesTest() {
