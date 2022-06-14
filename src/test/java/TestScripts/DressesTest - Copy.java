@@ -11,7 +11,7 @@ public class DressesTest {
 	
 	int b = 10;
 	int c = 30;
-	int a = 10;	
+	int a = 100;	
 
 	DressesObject dressobj;
 	HomePageObject home=new HomePageObject();
